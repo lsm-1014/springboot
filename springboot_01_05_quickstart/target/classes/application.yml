@@ -1,0 +1,32 @@
+server:
+  port: 80
+
+country: China
+province: beijing
+city: beijing
+area: caoyang
+
+
+parety: turn
+
+
+user1:
+  name: zhangshan
+  age: 18
+
+likes:
+  - game
+  - sleep
+  - sweing
+
+
+baseDir: c:\win10
+
+tempDir: ${baseDir}\temp
+
+datasource:
+    driver: com.mysql.jdbc.Driver
+    url: jdbc:mysql://locathost/springboot_db
+    username: root
+    password: root666
+
