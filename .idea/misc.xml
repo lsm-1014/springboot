@@ -9,6 +9,8 @@
         <option value="$PROJECT_DIR$/springboot_01_xxxxxxxx/pom.xml" />
         <option value="$PROJECT_DIR$/springboot_01_05_quickstart/pom.xml" />
         <option value="$PROJECT_DIR$/springboot_01_junit/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_01_batis/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_02batisplus/pom.xml" />
       </list>
     </option>
   </component>
