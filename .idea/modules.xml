@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/soringboot_03_ssmp/soringboot_03_ssmp.iml" filepath="$PROJECT_DIR$/soringboot_03_ssmp/soringboot_03_ssmp.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_01_02_quickstart/springboot_01_02_quickstart.iml" filepath="$PROJECT_DIR$/springboot_01_02_quickstart/springboot_01_02_quickstart.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_01_03_quickstart/springboot_01_03_quickstart.iml" filepath="$PROJECT_DIR$/springboot_01_03_quickstart/springboot_01_03_quickstart.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_01_04_quickstart/springboot_01_04_quickstart.iml" filepath="$PROJECT_DIR$/springboot_01_04_quickstart/springboot_01_04_quickstart.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_01_05_quickstart/springboot_01_05_quickstart.iml" filepath="$PROJECT_DIR$/springboot_01_05_quickstart/springboot_01_05_quickstart.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_01_batis/springboot_01_batis.iml" filepath="$PROJECT_DIR$/springboot_01_batis/springboot_01_batis.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_01_junit/springboot_01_junit.iml" filepath="$PROJECT_DIR$/springboot_01_junit/springboot_01_junit.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springboot_02batisplus/springboot_02batisplus.iml" filepath="$PROJECT_DIR$/springboot_02batisplus/springboot_02batisplus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_02_configuration/springboot_02_configuration.iml" filepath="$PROJECT_DIR$/springboot_02_configuration/springboot_02_configuration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_04_test/springboot_04_test.iml" filepath="$PROJECT_DIR$/springboot_04_test/springboot_04_test.iml" />
     </modules>
   </component>
 </project>

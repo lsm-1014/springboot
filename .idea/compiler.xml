@@ -2,20 +2,24 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="springboot_01_03_quickstart" />
         <module name="springboot_01_junit" />
+        <module name="soringboot_03_ssmp" />
+        <module name="springboot_04_test" />
         <module name="springboot_01_02_quickstart" />
         <module name="springboot_01_05_quickstart" />
         <module name="springboot_01_04_quickstart" />
         <module name="springboot_01_batis" />
-        <module name="springboot_02batisplus" />
+        <module name="springboot_02_configuration" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="soringboot_03_ssmp" target="1.8" />
       <module name="springboot_012_base_configuration" target="1.8" />
       <module name="springboot_01_02_quickstart" target="1.8" />
       <module name="springboot_01_03_quickstart" target="1.8" />
@@ -25,11 +29,15 @@
       <module name="springboot_01_junit" target="1.8" />
       <module name="springboot_01_x_xxxx" target="1.8" />
       <module name="springboot_01_xxxxxxxx" target="1.8" />
+      <module name="springboot_02_configuration" target="1.8" />
       <module name="springboot_02batisplus" target="1.8" />
+      <module name="springboot_03_ssmp" target="1.8" />
+      <module name="springboot_04_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="soringboot_03_ssmp" options="-parameters" />
       <module name="springboot_012_base_configuration" options="-parameters" />
       <module name="springboot_01_02_quickstart" options="-parameters" />
       <module name="springboot_01_03_quickstart" options="-parameters" />
@@ -39,6 +47,9 @@
       <module name="springboot_01_junit" options="-parameters" />
       <module name="springboot_01_x_xxxx" options="-parameters" />
       <module name="springboot_01_xxxxxxxx" options="-parameters" />
+      <module name="springboot_02_configuration" options="-parameters" />
+      <module name="springboot_03_ssmp" options="-parameters" />
+      <module name="springboot_04_test" options="-parameters" />
     </option>
   </component>
 </project>
