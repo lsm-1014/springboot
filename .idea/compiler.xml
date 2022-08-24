@@ -15,11 +15,15 @@
         <module name="springboot_01_05_quickstart" />
         <module name="springboot_01_04_quickstart" />
         <module name="springboot_01_batis" />
+        <module name="springboot_05_sql" />
+        <module name="spring_boot_06_redis" />
+        <module name="springboot_06_mbts" />
         <module name="springboot_02_configuration" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="soringboot_03_ssmp" target="1.8" />
+      <module name="spring_boot_06_redis" target="1.8" />
       <module name="springboot_012_base_configuration" target="1.8" />
       <module name="springboot_01_02_quickstart" target="1.8" />
       <module name="springboot_01_03_quickstart" target="1.8" />
@@ -33,11 +37,14 @@
       <module name="springboot_02batisplus" target="1.8" />
       <module name="springboot_03_ssmp" target="1.8" />
       <module name="springboot_04_test" target="1.8" />
+      <module name="springboot_05_sql" target="1.8" />
+      <module name="springboot_06_mbts" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="soringboot_03_ssmp" options="-parameters" />
+      <module name="spring_boot_06_redis" options="-parameters" />
       <module name="springboot_012_base_configuration" options="-parameters" />
       <module name="springboot_01_02_quickstart" options="-parameters" />
       <module name="springboot_01_03_quickstart" options="-parameters" />
@@ -50,6 +57,8 @@
       <module name="springboot_02_configuration" options="-parameters" />
       <module name="springboot_03_ssmp" options="-parameters" />
       <module name="springboot_04_test" options="-parameters" />
+      <module name="springboot_05_sql" options="-parameters" />
+      <module name="springboot_06_mbts" options="-parameters" />
     </option>
   </component>
 </project>
