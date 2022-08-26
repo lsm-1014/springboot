@@ -16,6 +16,8 @@
         <option value="$PROJECT_DIR$/springboot_05_sql/pom.xml" />
         <option value="$PROJECT_DIR$/spring_boot_06_redis/pom.xml" />
         <option value="$PROJECT_DIR$/springboot_06_mbts/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_07_task/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_08_mail/pom.xml" />
       </list>
     </option>
   </component>

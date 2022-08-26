@@ -29,9 +29,9 @@ public class BookController {
         return bookService.update(book);
     }
 
-    @DeleteMapping
-    public Boolean delete(@RequestBody Book book){
-        return bookService.save(book);
+    @DeleteMapping("{id}")
+    public Boolean delete(@RequestBody Integer id){
+        return bookService.delete(id);
     }
 
     @GetMapping
