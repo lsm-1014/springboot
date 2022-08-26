@@ -7,18 +7,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="springboot_08_mail" />
         <module name="springboot_01_03_quickstart" />
         <module name="springboot_01_junit" />
         <module name="soringboot_03_ssmp" />
-        <module name="springboot_04_test" />
-        <module name="springboot_01_02_quickstart" />
+        <module name="springboot_07_task" />
         <module name="springboot_01_05_quickstart" />
-        <module name="springboot_01_04_quickstart" />
-        <module name="springboot_01_batis" />
         <module name="springboot_05_sql" />
-        <module name="spring_boot_06_redis" />
         <module name="springboot_06_mbts" />
         <module name="springboot_02_configuration" />
+        <module name="springboot_04_test" />
+        <module name="springboot_01_02_quickstart" />
+        <module name="springboot_01_04_quickstart" />
+        <module name="springboot_01_batis" />
+        <module name="spring_boot_06_redis" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -39,6 +41,9 @@
       <module name="springboot_04_test" target="1.8" />
       <module name="springboot_05_sql" target="1.8" />
       <module name="springboot_06_mbts" target="1.8" />
+      <module name="springboot_07_ehcacahe" target="1.8" />
+      <module name="springboot_07_task" target="1.8" />
+      <module name="springboot_08_mail" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -59,6 +64,9 @@
       <module name="springboot_04_test" options="-parameters" />
       <module name="springboot_05_sql" options="-parameters" />
       <module name="springboot_06_mbts" options="-parameters" />
+      <module name="springboot_07_ehcacahe" options="-parameters" />
+      <module name="springboot_07_task" options="-parameters" />
+      <module name="springboot_08_mail" options="-parameters" />
     </option>
   </component>
 </project>

@@ -14,6 +14,8 @@
       <module fileurl="file://$PROJECT_DIR$/springboot_04_test/springboot_04_test.iml" filepath="$PROJECT_DIR$/springboot_04_test/springboot_04_test.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_05_sql/springboot_05_sql.iml" filepath="$PROJECT_DIR$/springboot_05_sql/springboot_05_sql.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_06_mbts/springboot_06_mbts.iml" filepath="$PROJECT_DIR$/springboot_06_mbts/springboot_06_mbts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_07_task/springboot_07_task.iml" filepath="$PROJECT_DIR$/springboot_07_task/springboot_07_task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_08_mail/springboot_08_mail.iml" filepath="$PROJECT_DIR$/springboot_08_mail/springboot_08_mail.iml" />
     </modules>
   </component>
 </project>
